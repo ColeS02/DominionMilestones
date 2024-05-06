@@ -1,0 +1,7 @@
+name: DominionMilestones
+version: '${project.version}'
+main: com.unclecole.dominionmilestones.DominionMilestones
+authors: [ Cole ]
+description: Milestones plugin
+commands:
+  stats:
